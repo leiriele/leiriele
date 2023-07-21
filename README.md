@@ -18,5 +18,5 @@ Desenvolvedora full-stack em formação ...
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/leiriele)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leiriele)
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/leiriele)
