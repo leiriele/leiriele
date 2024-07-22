@@ -1,4 +1,3 @@
-# 🚀 Sobre mim
 ## Desenvolvedora Full Stack
 
 <p align="center">
@@ -18,7 +17,9 @@
 
 Sou graduanda em Sistemas de Informação com experiência no desenvolvimento de software Full Stack. Atuei ativamente na comunidade acadêmica como cofundadora e membro do centro acadêmico (CASIU), monitora em disciplinas como Estatística e Programação para Internet, e representante discente no colegiado. Participei de diversos projetos de extensão, como Jovens Programadores, onde fui monitora no ensino de programação. No TechKids, atuei como professora e monitora no ensino de programação para crianças utilizando Scratch, e no projeto AFIN, lecionei conteúdo de História.
 
-Tenho experiência sólida em tecnologias como Python, JavaScript (com React e Node.js) e metodologias ágeis. Comprometo-me com o aprendizado contínuo e estou pronta para enfrentar desafios em projetos inovadores.
+Tenho experiência sólida em tecnologias como Python, JavaScript (com React e Node.js) e metodologias ágeis. 
+
+🚀  Comprometo-me com o aprendizado contínuo e estou pronta para enfrentar desafios em projetos inovadores  🚀 
 
 ## 🔗 Links para contato
 
