@@ -4,57 +4,34 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/API_REST-ff6b6b?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automação-22c55e?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
-##  Sobre mim
+##  Sobre
 
-Desenvolvedora com foco em **backend e automação de processos**, especializada em construção de APIs robustas, integração entre sistemas e otimização de fluxos operacionais.
-
-🎓 Graduanda em Sistemas de Informação  
-⚙️ Experiência prática com sistemas reais e integrações com ERP  
-📈 Foco em performance, escalabilidade e redução de esforço manual  
+Desenvolvedora backend com foco em **Django, APIs e automação de processos**.  
+Graduanda em Sistemas de Informação pela UFU, com experiência em integração com ERP e construção de soluções em ambiente real.
 
 ---
 
-##  Stack Principal
+##  Stack
 
-- **Backend:** Python, Django, Django Rest Framework  
-- **APIs:** RESTful APIs, autenticação, integração entre serviços  
-- **Banco de Dados:** PostgreSQL, modelagem relacional  
-- **Automação:** Scripts Python, integração com APIs externas  
-- **Infra:** Docker, Docker Compose  
-- **Outros:** Git, GitHub, metodologias ágeis  
+- Python, Django, Django REST Framework  
+- APIs REST e integrações  
+- PostgreSQL  
+- Docker  
 
 ---
 
-##  Experiência Aplicada
+##  Experiência
 
-### 🔧 Automação de Produção
-- Desenvolvimento de serviços para apontamentos de **Ordens de Produção (OPs)**
-- Integração direta com **ERP**
+- Automação de **Ordens de Produção (OPs)** integrada a ERP  
+- Desenvolvimento de **APIs REST** para integração de sistemas  
+- Geração de relatórios automatizados e envio via Telegram  
 - Redução de processos manuais e erros operacionais  
-
-### 📡 Integrações e APIs
-- Construção de **APIs REST com Django**
-- Integração entre sistemas internos e externos  
-- Tratamento e transformação de dados em tempo real  
-
-### 📊 Monitoramento e Notificações
-- Geração automatizada de relatórios  
-- Envio de dados e alertas via **Telegram API**
----
-
-##  Diferenciais
-
-- Visão prática de negócio aplicada ao backend  
-- Experiência com **automação real em ambiente produtivo**  
-- Capacidade de estruturar sistemas escaláveis e integráveis  
-- Facilidade em transformar processos manuais em soluções automatizadas  
 
 ---
 
