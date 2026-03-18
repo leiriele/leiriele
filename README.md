@@ -35,7 +35,7 @@ Desenvolvedora com foco em **backend e automação de processos**, especializada
 ##  Experiência Aplicada
 
 ### 🔧 Automação de Produção
-- Desenvolvimento de serviços para **cOrdens de Produção (OPs)**
+- Desenvolvimento de serviços para apontamentos de **Ordens de Produção (OPs)**
 - Integração direta com **ERP**
 - Redução de processos manuais e erros operacionais  
 
