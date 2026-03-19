@@ -38,18 +38,18 @@ Graduanda em Sistemas de Informação pela UFU, com experiência em integração
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiriele&layout=compact&theme=midnight-purple"/>
+<!--  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leiriele&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true"/> -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiriele&layout=compact&theme=midnight-purple&hide=css,scss,html,jupyter%20notebook"/>
 </p>
 
----
-
-## 🔗 Contato
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/leiriele">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/leiriele" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:leiricorrea@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/leiriele" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </p>
